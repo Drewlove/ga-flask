@@ -5,6 +5,7 @@ Questions? Comments?
 3. Hit me up on Slack @annazocher
 --->
 
+<!--Just testing stuff out here -->
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Flask - Instructor Notes
 
 ## Overview
@@ -55,7 +56,7 @@ In this lesson, students will:
 - Open lesson by describing what they are going to do (build a flask app!), and why this is so exciting (we are using Flask to actually put your stuff on the internet!)
 - Highest level overview of Flask
 - Review history of Flask as described on slide, and how Werkzeug (connection library) and Jinja (templating library) make the basis of Flask/why a web app would want/need these two things.
-- What is Flask? - flask is a web framework. What is a web framework? A written library of code that helps us build web apps. 
+- What is Flask? - flask is a web framework. What is a web framework? A written library of code that helps us build web apps.
 - Review what web app is, and use this opportunity to review what the client-server relationship is (maybe draw out diagram on board to review?)
 - Why we use a lighter web framework like Flask
 - Use this to transition to real world flask apps
@@ -89,4 +90,3 @@ In this lesson, students will:
 
 
 -----
-
