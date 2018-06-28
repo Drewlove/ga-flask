@@ -1,0 +1,30 @@
+a {
+  color: #52658f;
+  text-decoration: none;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 20px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+table {
+  margin-left: 30%;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+td {
+  border-bottom: 1px solid #333a56;
+}
+
+input {
+  padding: 20px;
+}
+
+form {
+  font-weight: bold;
+  padding: 20px;
+}
