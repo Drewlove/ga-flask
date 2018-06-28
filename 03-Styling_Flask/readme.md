@@ -5,7 +5,7 @@
 This lesson teaches the basics of HTML and CSS so that students can begin to create a more robust flavor of a Flask app.
 
 ## Important Notes or Prerequisites
-It's important that students know the basics of Flask: 
+It's important that students know the basics of Flask:
 - Creating a hello world app
 
 ## Learning Objectives
@@ -16,6 +16,8 @@ In this lesson, students will:
 
 ## Duration
 30 minutes.
+
+One more test
 
 ---
 

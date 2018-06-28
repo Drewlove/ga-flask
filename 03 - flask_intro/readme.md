@@ -5,7 +5,6 @@ Questions? Comments?
 3. Hit me up on Slack @annazocher
 --->
 
-<!--Just testing stuff out here -->
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Flask - Instructor Notes
 
 ## Overview
