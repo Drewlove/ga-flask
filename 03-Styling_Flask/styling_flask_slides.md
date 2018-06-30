@@ -14,15 +14,16 @@ Author: Kevin Coyle
 HTML and CSS Intro
 
 ---
-##HTML & CSS
-<!--
+<!-- Slide 1
+Talking Points
 -->
+## HTML & CSS
 
 HTML tells browsers what content to display, and CSS tells browsers how that content should look.
 
 ---
 ## Intro to HTML
-<!--
+<!-- Slide 2
 
 -->
 HTML means Hyper Text Markup language.
@@ -31,27 +32,26 @@ Using HTML allows developers to change achieve font, color, graphic, and hyperli
 
 
 ---
-##Without HTML
-<!--
+## Without HTML
+<!-- Slide 3
 Talking Points
 -->
 Without HTML
 
-<iframe height="400px" width="100%" src="https://codepen.io/thisisdrewlove/pen/MXLgqW" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
+[Harry Potter Profile: Bland](https://codepen.io/thisisdrewlove/pen/MXLgqW")
 ---
 ## With HTML
-<!--
+<!-- Slide 4
 Talking Points
 -->
 
 With HTML
 
-<iframe height="400px" width="100%" src="https://codepen.io/thisisdrewlove/pen/rKPNPY?editors=1000" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+[Harry Potter Profile: Fancy!](https://codepen.io/thisisdrewlove/pen/rKPNPY?editors=1000")
 
 ---
 ## How do I make an HTML document?
-<!-- SLIDE
+<!-- SLIDE 5
 - Now that you know a little about styling HTML documents, let's look at how to create one.
 - Every HTML document starts with `<!DOCTYPE html>`. If students ask why, you can explain that historically, HTML doctypes declared the set of rules to be considered good HTML (error checking, etc.). Now we just need it so that everything works.
 - Then you have the <html> and </html> elements. These are known as the root elements
@@ -71,20 +71,20 @@ With HTML
 </body>
 </html>
 ---
-## Anatomy of a tag
-<!--
+## Anatomy of an element
+<!-- Slide 6
 > The basic building blocks of an HTML document are elements
 > Elements consist of an opening tag, content, and closing tag
 > The tag tells the web browser how to render, or display, the content
 -->
 
-=> Opening tag: ```<p>```
-=> Content: text, image, video, other elements
-=> Closing tag: ```</p>```
+* Opening tag: `<p>`
+* Content: text, image, video, other elements
+* Closing tag: `</p>`
 
 ---
 ## Basic tags
-<!--
+<!-- Slide 7
 Talking Points
 There are many kinds of tags that help create structure and flow for your webpage
 Let's review some of the most basic tags
@@ -93,13 +93,24 @@ Review how different header sizes use different numbers
 <h1> and <h2> are the most common
 -->
 Common Tags:
-=> bold: ```<b>bold</b>```
-=> paragraph: ```<p>paragraph</p>```
-=> header: ```<h1></h1>```
+* bold: `<b>bold</b>`
+* paragraph: `<p>paragraph</p>`
+* header: `<h1></h1>`
 
 ---
+##Harry Potter Example
+<!-- Slide 8
+Talking Points
+Point out where tag is used.
+Review the structure of a tag, opening tag, content, closing tag
+-->
+
+[Harry Potter Profile](https://codepen.io/thisisdrewlove/pen/rKPNPY?editors=1000)
+
+---
+
 ##Now you try
-<!--
+<!-- Slide 9
 Encourage students to experiment with the tags.
 Their profile doesn't have to be in the same format as the Harry Potter
 profile.
@@ -109,27 +120,54 @@ Using the tags below, create a profile for yourself.
 Include: name, about me, experience, and hobbies
 
 Common Tags:
-=> bold: ```<b>bold</b>```
-=> paragraph: ```<p>paragraph</p>```
-=> header: ```<h1></h1>```
+* bold: `<b>bold</b>`
+* paragraph: `<p>paragraph</p>`
+* header: `<h1></h1>`
 
 ---
-##title
+##HTML Attributes
+<!-- Slide 10
+> Building on our knowledge of tags, let's start to explore the next topic: HTML Attributes
+> Some tags require attributes in order to work properly
+> One tag that requires the attribute, is the <img/> tag
+> the src is the name, and the "image.com" is the value
+-->
+An HTML attribute provides extra information to the browser about the tag
+
+There are two parts
+* name
+* value
+
+`<img src="image.com"/>`
+
+---
+##img tag example
+<!-- slide 11
+Talking Points
+-->
+
+[Harry Potter Profile with Pic](https://codepen.io/thisisdrewlove/pen/OEdJwL?editors=1000)
+---
+
+##Add an img tag
+<!-- slide 12
+Talking Points
+-->
+
+Add an img tag to your profile.
+
+Use the format below.
+
+Change the value, "image.com", to a url of your choice.
+
+`<img src="image.com"/>`
+---
+
+##Intro to CSS
 <!-- 
-Talking Points
--->
+slide 13
 
-text
----
-
-##title
-<!--
-Talking Points
--->
-
-text
----
-
+--
 
 
 
