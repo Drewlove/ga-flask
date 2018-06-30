@@ -38,7 +38,7 @@ Talking Points
 -->
 Without HTML
 
-[Harry Potter Profile: Bland](https://codepen.io/thisisdrewlove/pen/MXLgqW")
+[Harry Potter Profile: Bland](https://codepen.io/thisisdrewlove/pen/MXLgqW)
 ---
 ## With HTML
 <!-- Slide 4
@@ -47,7 +47,7 @@ Talking Points
 
 With HTML
 
-[Harry Potter Profile: Fancy!](https://codepen.io/thisisdrewlove/pen/rKPNPY?editors=1000")
+[Harry Potter Profile: Fancy!](https://codepen.io/thisisdrewlove/pen/rKPNPY?editors=1000)
 
 ---
 ## How do I make an HTML document?
@@ -164,7 +164,7 @@ Change the value, "image.com", to a url of your choice.
 ---
 
 ##Intro to CSS
-<!-- 
+<!--
 slide 13
 
 --
